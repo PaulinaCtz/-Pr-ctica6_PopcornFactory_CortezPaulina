@@ -1,1 +1,1 @@
-# -Pr-ctica6_PopcornFactory_CortezPaulina
+# Practica6_PopcornFactory_CortezPaulina
